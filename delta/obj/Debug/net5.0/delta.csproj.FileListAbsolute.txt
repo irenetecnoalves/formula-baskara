@@ -1,0 +1,16 @@
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\bin\Debug\net5.0\delta.exe
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\bin\Debug\net5.0\delta.deps.json
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\bin\Debug\net5.0\delta.runtimeconfig.json
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\bin\Debug\net5.0\delta.runtimeconfig.dev.json
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\bin\Debug\net5.0\delta.dll
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\bin\Debug\net5.0\ref\delta.dll
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\bin\Debug\net5.0\delta.pdb
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\obj\Debug\net5.0\delta.csproj.AssemblyReference.cache
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\obj\Debug\net5.0\delta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\obj\Debug\net5.0\delta.AssemblyInfoInputs.cache
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\obj\Debug\net5.0\delta.AssemblyInfo.cs
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\obj\Debug\net5.0\delta.csproj.CoreCompileInputs.cache
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\obj\Debug\net5.0\delta.dll
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\obj\Debug\net5.0\ref\delta.dll
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\obj\Debug\net5.0\delta.pdb
+C:\Users\Irene Alves\Desktop\trabalhossharp\desafiosharp\delta\delta\obj\Debug\net5.0\delta.genruntimeconfig.cache
